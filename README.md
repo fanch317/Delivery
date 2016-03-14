@@ -5,7 +5,7 @@ A share work-zone in symfony/angularjs.
 
 Requires
 ===
-- PHP 5.3.9
+- PHP 5.4.0
 - Mysql 5.0
 
 
